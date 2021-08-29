@@ -1,9 +1,9 @@
-import Header from "../components/header";
-import Job from "../components/job";
-import Contact from "../components/contact";
-import Section from "../components/section";
-import List from "../components/list";
-import Project from "../components/project";
+import Header from "components/header";
+import Job from "components/job";
+import Contact from "components/contact";
+import Section from "components/section";
+import List from "components/list";
+import Project from "components/project";
 
 export default function Home() {
   return (
