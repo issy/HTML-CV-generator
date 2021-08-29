@@ -9,4 +9,4 @@ Use this tool to easily design a CV from scratch!
 3. Run the development server with `npm run dev`
 4. Navigate to http://127.0.0.1:3000 and save the page as a PDF using print to PDF
 
-You can also check out the examples section (coming soon) of this repo for inspiration!
+You can also check out the examples section of this repo (coming soon) for inspiration!
